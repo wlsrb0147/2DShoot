@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Score.unity
+    guid: 26b4c83cdc5811342afc064f168eb91a
+  - enabled: 1
+    path: Assets/Scenes/Dragon.unity
+    guid: b8c4186f08ae5c4449197c7190c4af2a
+  m_configObjects: {}
