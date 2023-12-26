@@ -1,7 +1,3 @@
-### **제목을 누르면 해당 항목 또는 목차로 이동합니다.**
-![Honeycam 2023-12-26 18-04-40](https://github.com/wlsrb0147/2DShoot/assets/50743287/e5cfa80a-8e5a-461d-9b84-25ca688afcf9)
-
-
 ## 목차
 
 1. 프로젝트 설명
@@ -33,24 +29,31 @@
 보스 드래곤은 6가지 패턴이 존재합니다
 
 1. 일반 공격 패턴
+
 ![Honeycam 2023-12-26 14-15-18](https://github.com/wlsrb0147/2DShoot/assets/50743287/62974a3d-fa2a-42b4-959c-13c6578d01ba)
 
 1. 부하생성 
+
 ![Honeycam 2023-12-26 14-02-37](https://github.com/wlsrb0147/2DShoot/assets/50743287/970ff987-4406-40a8-91de-74ad784559e6)
 
 1. 바둑판 패턴
+
 ![Honeycam 2023-12-26 14-15-05](https://github.com/wlsrb0147/2DShoot/assets/50743287/ad45bbf2-a7d1-4967-8336-ea6a9be8bc54)
 
 1. 분신 패턴
+
 ![Honeycam 2023-12-26 14-15-09](https://github.com/wlsrb0147/2DShoot/assets/50743287/369fd840-8b9e-4a69-af02-71e4daa3c0ba)
 
 1. 돌진패턴
+
 ![Honeycam 2023-12-26 14-15-14](https://github.com/wlsrb0147/2DShoot/assets/50743287/185aa2cd-03ec-4b4e-a879-7eb127466278)
 
 1. 체력깎기 패턴(성공)
+
 ![Honeycam 2023-12-26 14-15-01](https://github.com/wlsrb0147/2DShoot/assets/50743287/e2ab45af-50b0-47a9-a415-50d7b9702f94)
 
 체력깎기 패턴 (실패)
+
 ![Honeycam 2023-12-26 14-14-42](https://github.com/wlsrb0147/2DShoot/assets/50743287/a084a9bb-5ce4-4429-962f-20782b555306)
 
 # 3. 기술서
