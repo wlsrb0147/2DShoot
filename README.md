@@ -55,25 +55,9 @@
 
 ![Honeycam 2023-12-26 14-14-42](https://github.com/wlsrb0147/2DShoot/assets/50743287/a084a9bb-5ce4-4429-962f-20782b555306)
 
-# 3. 개선할 수 있는 사항
+# 3. 기술서
 
-- 현재는 맵을 크게 키워 움직임에 방해되지 않게하고, 맵 끝을 막아둠
-    - 새로 만든 프로젝트에서는 맵 스프라이트를 9개를 사용하여, 캐릭터가 들어온 좌표에 따라 맵을 재배치 시켜 무한맵 제작할 것
-
-- 몬스터가 파괴 이펙트를 Destroy()에서 Instantiate로 프리팹을 만들어 사용함
-    - 게임이 종료되었을 때 Destory()가 실행되어 제대로 종료가 되지않음
-    - 종료 애니메이션 실행으로 변경
-
-- Pooling 실행시 스크립트 초기화가 안되는 문제가 발생
-    - 초기화 로직을 Reset()에 적용시켜,  Reset() 실행시킴
-
-- Pooling으로 만든 Prefab이 하이어라키에 늘어져 게임오브젝트 식별 불가
-    - 비활성화된 게임오브젝트는 GameManager의 자식으로 만들어 정리함
-
-### Find 문제 - 성능 이슈
-
-현재 몬스터 숫자, 몬스터의 플레이어 정보는 Find를 사용하여 가져오기에 성능문제가 발생함
-
+https://drive.google.com/file/d/1XSFOUcPbgPlIrWkSrv9ZwGVhFS76vsgn/view?usp=sharing
 - 개선 방법
     - Player을 Singleton에 등록 후, 플레이어 정보를 Singleton에서 참조할 것
     - 몬스터가 생성될 때, Singleton의 리스트에 자신을 등록하고, 파괴될 때 리스트에서 제거하여 몬스터 숫자를 인식할 것
