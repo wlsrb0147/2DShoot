@@ -58,7 +58,4 @@
 # 3. 기술서
 
 https://drive.google.com/file/d/1XSFOUcPbgPlIrWkSrv9ZwGVhFS76vsgn/view?usp=sharing
-- 개선 방법
-    - Player을 Singleton에 등록 후, 플레이어 정보를 Singleton에서 참조할 것
-    - 몬스터가 생성될 때, Singleton의 리스트에 자신을 등록하고, 파괴될 때 리스트에서 제거하여 몬스터 숫자를 인식할 것
 
