@@ -2,9 +2,9 @@
 
 1. 프로젝트 설명
 
-2. 기능 시연
+2. 코드 및 개선사항
 
-3. 코드 및 개선사항
+3. 기능 시연
 
 ## 1. 프로젝트 설명
 
@@ -12,9 +12,11 @@
     
     간단한 조작과 풀링을 사용하여 슈팅게임을 구현하였습니다
     
+# 2. 코드 및 개선사항
 
-
-## 2. 기능 시연
+https://drive.google.com/file/d/1XSFOUcPbgPlIrWkSrv9ZwGVhFS76vsgn/view?usp=sharing
+</br>
+## 3. 기능 시연
 
 ### 일반 몬스터 패턴
 ![Honeycam 2023-12-26 18-04-40](https://github.com/wlsrb0147/2DShoot/assets/50743287/4835a37d-60ea-41cb-85d1-e243e155eb88)
@@ -55,7 +57,4 @@
 
 ![Honeycam 2023-12-26 14-14-42](https://github.com/wlsrb0147/2DShoot/assets/50743287/a084a9bb-5ce4-4429-962f-20782b555306)
 
-# 3. 코드 및 개선사항
-
-https://drive.google.com/file/d/1XSFOUcPbgPlIrWkSrv9ZwGVhFS76vsgn/view?usp=sharing
 
