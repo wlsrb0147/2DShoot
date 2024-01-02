@@ -12,7 +12,7 @@
     
     간단한 조작과 풀링을 사용하여 슈팅게임을 구현하였습니다
     
-# 2. 코드 및 개선사항
+## 2. 코드 및 개선사항
 
 https://drive.google.com/file/d/1XSFOUcPbgPlIrWkSrv9ZwGVhFS76vsgn/view?usp=sharing
 </br>목차 포함 6p</br>
