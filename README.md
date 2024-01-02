@@ -15,7 +15,7 @@
 # 2. 코드 및 개선사항
 
 https://drive.google.com/file/d/1XSFOUcPbgPlIrWkSrv9ZwGVhFS76vsgn/view?usp=sharing
-</br>
+</br>목차 포함 6p</br>
 ## 3. 기능 시연
 
 ### 일반 몬스터 패턴
