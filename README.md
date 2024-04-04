@@ -13,9 +13,11 @@
     간단한 조작과 풀링을 사용하여 슈팅게임을 구현하였습니다
     
 ## 2. 코드 및 개선사항 / 시연 영상
-시연영상 : https://youtu.be/9GjZpeZBEw8 </br> </br>
+</br>
 코드 및 개선사항 pdf : https://drive.google.com/file/d/1XSFOUcPbgPlIrWkSrv9ZwGVhFS76vsgn/view?usp=sharing
-</br>(목차 포함 6p)</br>
+</br>(목차 포함 6p)</br></br>
+
+시연영상 : https://youtu.be/9GjZpeZBEw8 </br> </br>
 ## 3. 기능 시연
 
 ### 일반 몬스터 패턴
